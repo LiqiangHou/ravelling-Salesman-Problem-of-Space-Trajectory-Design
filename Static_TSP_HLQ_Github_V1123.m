@@ -13,6 +13,10 @@ function Static_TSP_HLQ_Github_V1123
 %
 
 % Benchmarks are from:http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp/ 
+% Author: 
+%  Liqiang-Hou, School of Aeronautics and Astronautics, Shanghai Jiaotong University
+% For any questions about the program, please email houliqiang@sjtu.edu.cn
+% All right revserved
 
 clear all;
 close all;
